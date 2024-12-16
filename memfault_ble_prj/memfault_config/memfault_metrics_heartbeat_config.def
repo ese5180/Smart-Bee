@@ -1,0 +1,11 @@
+/* Application-specific metrics can be defined here.
+ * Please refer to https://docs.memfault.com/docs/embedded/metrics-api for more details.
+ */
+
+MEMFAULT_METRICS_KEY_DEFINE(button_3_press_count, kMemfaultMetricType_Unsigned)
+MEMFAULT_METRICS_KEY_DEFINE(button_1_elapsed_time_ms, kMemfaultMetricType_Timer)
+MEMFAULT_METRICS_KEY_DEFINE(battery_soc_pct, kMemfaultMetricType_Unsigned)
+MEMFAULT_METRICS_KEY_DEFINE(hive_temperature, kMemfaultMetricType_Unsigned)
+MEMFAULT_METRICS_KEY_DEFINE(hive_pressure, kMemfaultMetricType_Unsigned)
+MEMFAULT_METRICS_KEY_DEFINE(honey_collected, kMemfaultMetricType_Unsigned)
+MEMFAULT_METRICS_KEY_DEFINE(bee_count, kMemfaultMetricType_Unsigned)

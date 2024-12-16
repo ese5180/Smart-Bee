@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "trace_event.h": "c",
+        "kernel.h": "c",
+        "i2c.h": "c",
+        "data_packetizer.h": "c",
+        "log_ctrl.h": "c",
+        "components.h": "c"
+    }
+}

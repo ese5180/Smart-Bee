@@ -1,0 +1,13 @@
+# Target labels
+ hci_ipc_subimage
+# Source files and their labels
+/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/build/modules/nrf/samples/CMakeFiles/hci_ipc_subimage
+/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/build/modules/nrf/samples/CMakeFiles/hci_ipc_subimage.rule
+/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/build/modules/nrf/samples/CMakeFiles/hci_ipc_subimage-complete.rule
+/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/build/modules/nrf/samples/hci_ipc_subimage-prefix/src/hci_ipc_subimage-stamp/hci_ipc_subimage-build.rule
+/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/build/modules/nrf/samples/hci_ipc_subimage-prefix/src/hci_ipc_subimage-stamp/hci_ipc_subimage-configure.rule
+/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/build/modules/nrf/samples/hci_ipc_subimage-prefix/src/hci_ipc_subimage-stamp/hci_ipc_subimage-download.rule
+/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/build/modules/nrf/samples/hci_ipc_subimage-prefix/src/hci_ipc_subimage-stamp/hci_ipc_subimage-install.rule
+/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/build/modules/nrf/samples/hci_ipc_subimage-prefix/src/hci_ipc_subimage-stamp/hci_ipc_subimage-mkdir.rule
+/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/build/modules/nrf/samples/hci_ipc_subimage-prefix/src/hci_ipc_subimage-stamp/hci_ipc_subimage-patch.rule
+/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/build/modules/nrf/samples/hci_ipc_subimage-prefix/src/hci_ipc_subimage-stamp/hci_ipc_subimage-update.rule
