@@ -397,7 +397,7 @@ These issues arose due to the finite resources and scope of the project.
 - Did your target market want something different?
 ```
 
-### Images of your MVP device
+### Device Images
 ```markdown
 - Remember, we have a light box in the Detkin Lab for taking nicer photos with good lighting.
 ```
@@ -405,14 +405,61 @@ These issues arose due to the finite resources and scope of the project.
 - You might not want a sterile environment for these photos - consider taking the photos where your device would be operating!
 ```
 
-### A video demonstrating:
+### Video demo
 
 ```markdown
 - Your Core Product Function
 ```
+
+#### Sensor Data
+
+![Demo Video](./Fleet_Management_Media/Sensor_Data.gif)
+
+#### Loadcell
+
+![Demo Video](./Fleet_Management_Media/Loadcell.gif)
+
+#### BLE Security
+
+![Demo Video](./Fleet_Management_Media/BLE_Security.gif)
+
+#### Memfault
+
+![Demo Video](./Fleet_Management_Media/Memfault.gif)
+
+
 ```markdown
 - Memfault integration features
 ```
+
+#### Multiple Devices
+
+![Multiple Devices](./Fleet_Management_Media/Multiple_Devices.png)
+
+#### Device Data Feature
+
+**Memfault Chunk**
+
+![Multiple Devices](./Fleet_Management_Media/Memfault_Sensor.png)
+
+**Code**
+
+![Multiple Devices](./Fleet_Management_Media/Memfault_Code.png)
+
+#### Core Dump Feature
+
+**Memfault Chunk**
+
+![Multiple Devices](./Fleet_Management_Media/Core_Dump.png)
+
+**Code**
+
+![Multiple Devices](./Fleet_Management_Media/Core_Dump_Code.png)
+
+#### Memfault Heartbeat Packet
+
+![Heartbeat](./Fleet_Management_Media/Memfault_Heartbeat.png)
+
 ### Anything else you think is relevant to the project
 ```markdown
 - Imagine you’d like to show your family or a potential employer what you did this semester. What would you want to include?
