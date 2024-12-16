@@ -345,3 +345,57 @@ It can also be found at - [link](https://drive.google.com/drive/folders/1majMOTk
 ## Video Demo
 
 ![Demo Video](./Fleet_Management_Media/memfault_Demo.mp4)
+
+
+## Final Report (Website)
+
+### Review your IoT Venture Pitch assignment. Identify what changed throughout the project, including:
+```markdown
+- Target Market & Demographics
+```
+```markdown
+- Security, Hardware, & Software Requirements
+```
+```markdown
+- Product Function & Components
+```
+```markdown
+- Power & Cost Budgeting
+```
+  
+### What parts of your project would you consider a success? Why?
+### What parts of your project didn’t go well? Why?
+### If you had to do it again, how might you change your development approach given the finite time and money resources?
+### Would you change your system design after this development cycle? For example:
+```markdown
+- Was your wireless communication protocol the correct choice?
+```
+```markdown
+- Would other sensors or actuators work better?
+```
+```markdown
+- Did your target market want something different?
+```
+
+### Images of your MVP device
+```markdown
+- Remember, we have a light box in the Detkin Lab for taking nicer photos with good lighting.
+```
+```markdown
+- You might not want a sterile environment for these photos - consider taking the photos where your device would be operating!
+```
+
+### A video demonstrating:
+
+```markdown
+- Your Core Product Function
+```
+```markdown
+- Memfault integration features
+```
+### Anything else you think is relevant to the project
+```markdown
+- Imagine you’d like to show your family or a potential employer what you did this semester. What would you want to include?
+```
+
+
