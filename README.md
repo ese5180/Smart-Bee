@@ -349,24 +349,44 @@ It can also be found at - [link](https://drive.google.com/drive/folders/1majMOTk
 
 ## Final Report (Website)
 
-### Review your IoT Venture Pitch assignment. Identify what changed throughout the project, including:
-```markdown
-- Target Market & Demographics
-```
-```markdown
-- Security, Hardware, & Software Requirements
-```
-```markdown
-- Product Function & Components
-```
-```markdown
-- Power & Cost Budgeting
-```
+### 1. Changes Throughout the Project
+
+#### Target Market & Demographics
+
+Initially, the target market was broadly defined to include hobbyists, sideline beekeepers, and commercial beekeepers. Over time, the focus narrowed to primarily hobbyist beekeepers with fewer than 10 hives. This shift was likely driven by the realization that hobbyists represent a more accessible entry point for market penetration, given their smaller-scale operations and interest in affordable, user-friendly solutions.
+
+
+#### Security, Hardware, & Software Requirements
+
+The project evolved to include more robust security measures such as firmware integrity checks, secure storage of sensitive data in hardware enclaves, and secure boot mechanisms. Hardware requirements were refined to ensure low power consumption and compatibility with BLE connectivity. Software requirements expanded to include real-time data visualization and cloud storage for historical data analysis.
+
+#### Product Function & Components
+
+The product's core functionality remained consistent—monitoring hive conditions using sensors for temperature, humidity, weight, and bee movement. However, refinements were made to improve sensor accuracy and reduce power consumption. The inclusion of a mobile app for BLE data display became a central feature.
+
+#### Power & Cost Budgeting
+
+The power budget was optimized by selecting low-power components like the Nordic nRF5340 DK microcontroller and BME280 sensor. The estimated hardware cost per unit was finalized at $83.35, while software costs (e.g., BlueSee subscription) were estimated at $15/month or $180/year.
   
-### What parts of your project would you consider a success? Why?
-### What parts of your project didn’t go well? Why?
-### If you had to do it again, how might you change your development approach given the finite time and money resources?
-### Would you change your system design after this development cycle? For example:
+### 2. Successful Aspects of the Project
+
+- **Market Alignment:** Successfully identified a specific target demographic (hobbyist beekeepers), aligning the product with their needs.
+- **Technical Implementation:** Achieved integration of multiple sensors with BLE connectivity for real-time monitoring.
+- **Cost Efficiency:** Maintained a competitive hardware cost of $83.35 per unit while delivering essential features.
+- **User-Friendly Design:** Developed an intuitive mobile app interface for data visualization and alerts.
+
+These successes were driven by clear problem identification (beehive monitoring challenges) and effective use of available resources.
+
+### 3. Challenges Faced
+
+- **Time Constraints:** Limited time may have restricted deeper testing or refinement of certain components.
+- **Wireless Protocol Limitations:** BLE was chosen for its low power consumption but may have limited range compared to alternatives like Wi-Fi or LoRaWAN.
+- **Market Validation:** Limited feedback from actual target users (hobbyist beekeepers) may have hindered validation of product-market fit.
+
+These issues arose due to the finite resources and scope of the project.
+
+### 4. If you had to do it again, how might you change your development approach given the finite time and money resources?
+### 5. Would you change your system design after this development cycle? For example:
 ```markdown
 - Was your wireless communication protocol the correct choice?
 ```
