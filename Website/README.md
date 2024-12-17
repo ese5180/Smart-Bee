@@ -385,25 +385,33 @@ These successes were driven by clear problem identification (beehive monitoring 
 
 These issues arose due to the finite resources and scope of the project.
 
-### 4. If you had to do it again, how might you change your development approach given the finite time and money resources?
-### 5. Would you change your system design after this development cycle? For example:
+### 4. Improved Development Approach
+
+- **Early Focus on Specifics:** Define the target audience, hardware components, and functionalities in more detail early in the project. This would help to streamline the development process and avoid unnecessary changes later on.
+- **Prototyping and Testing:** Allocate more time for prototyping and testing, especially for critical aspects like BLE range and sensor accuracy. This would help to identify and address potential issues early on.
+- **Iterative Development:** Adopt an iterative development approach, starting with a minimum viable product (MVP) and gradually adding features based on user feedback and testing.
+
+### 5. System Design Considerations
 ```markdown
-- Was your wireless communication protocol the correct choice?
+a. Wireless Communication Protocol
 ```
+BLE is a suitable choice for hobbyist beekeepers due to its low power consumption, ease of use, and cost-effectiveness. However, range limitations need to be addressed through testing and potential mitigation strategies. While BLE was effective for low power consumption, exploring options like LoRaWAN could improve range and scalability for remote hive locations.
+
 ```markdown
-- Would other sensors or actuators work better?
+b. Sensors or Actuators
 ```
+The selected sensors (temperature, humidity, weight, bee counter) are relevant for hobbyist beekeepers. Additional sensors (e.g., acoustic sensors) could be considered for future iterations based on user needs and feedback.
+
 ```markdown
-- Did your target market want something different?
+c. Target Market Feedback
 ```
+Focusing on hobbyist beekeepers was a good decision, but further market research and user feedback would help to validate the product's features and ensure they meet the specific needs of this target audience.
 
 ### Device Images
-```markdown
-- Remember, we have a light box in the Detkin Lab for taking nicer photos with good lighting.
-```
-```markdown
-- You might not want a sterile environment for these photos - consider taking the photos where your device would be operating!
-```
+
+#### MVP Device
+
+![Heartbeat](./Fleet_Management_Media/MVP_Device.jpeg)
 
 ### Video demo
 
