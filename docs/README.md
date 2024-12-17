@@ -1,11 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/URrFMA27)
 # FP-F24 IoT Venture Pitch
 ## ESE5180: IoT Wireless, Security, & Scaling
 
-
 ## 1 GitHub URL
 
-https://github.com/ese5180/fp-f24-iot-venture-pitch-smartbeehive
+https://github.com/ese5180/Smart-Bee
 
 ## 2 Team Selection
 
