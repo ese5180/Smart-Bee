@@ -1,2 +1,0 @@
-"nrf":"/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/nrf":"/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/nrf/sysbuild"
-"mcuboot":"/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/bootloader/mcuboot":"/home/adi262/fp-f24-iot-venture-pitch-smartbeehive/memfault_ble_prj/bootloader/mcuboot/boot/zephyr/sysbuild"
