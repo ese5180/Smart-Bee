@@ -467,10 +467,3 @@ Focusing on hobbyist beekeepers was a good decision, but further market research
 #### Memfault Heartbeat Packet
 
 ![Heartbeat](./Fleet_Management_Media/Memfault_Heartbeat.png)
-
-### Anything else you think is relevant to the project
-```markdown
-- Imagine you’d like to show your family or a potential employer what you did this semester. What would you want to include?
-```
-
-
