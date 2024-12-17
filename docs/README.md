@@ -1,6 +1,10 @@
 # FP-F24 IoT Venture Pitch
 ## ESE5180: IoT Wireless, Security, & Scaling
 
+## 0 Website Link
+
+https://ese5180.github.io/Smart-Bee/
+
 ## 1 GitHub URL
 
 https://github.com/ese5180/Smart-Bee
